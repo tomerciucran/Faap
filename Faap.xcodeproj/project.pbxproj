@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		5398F70D8402176D6965D4E2 /* Pods_Faap.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C621A43BCC7E4CF5A1D76E24 /* Pods_Faap.framework */; };
 		F166A6381DC3862000887354 /* CreateEventViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166A6371DC3862000887354 /* CreateEventViewController.swift */; };
+		F166A63B1DC3A64500887354 /* EventTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166A63A1DC3A64500887354 /* EventTableViewCell.swift */; };
+		F166A63D1DC3A6D700887354 /* EventsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166A63C1DC3A6D700887354 /* EventsTableViewController.swift */; };
 		F1C5395E1DC24EDA0081E8E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C5395D1DC24EDA0081E8E5 /* AppDelegate.swift */; };
 		F1C539631DC24EDA0081E8E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1C539611DC24EDA0081E8E5 /* Main.storyboard */; };
 		F1C539651DC24EDA0081E8E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1C539641DC24EDA0081E8E5 /* Assets.xcassets */; };
@@ -22,6 +24,8 @@
 		E2BDEF1FEB68F116A495B6EA /* Pods-Faap.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Faap.release.xcconfig"; path = "Pods/Target Support Files/Pods-Faap/Pods-Faap.release.xcconfig"; sourceTree = "<group>"; };
 		F166A6371DC3862000887354 /* CreateEventViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateEventViewController.swift; sourceTree = "<group>"; };
 		F166A6391DC3925E00887354 /* Faap.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Faap.entitlements; sourceTree = "<group>"; };
+		F166A63A1DC3A64500887354 /* EventTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventTableViewCell.swift; sourceTree = "<group>"; };
+		F166A63C1DC3A6D700887354 /* EventsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventsTableViewController.swift; sourceTree = "<group>"; };
 		F1C5395A1DC24EDA0081E8E5 /* Faap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Faap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1C5395D1DC24EDA0081E8E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F1C539621DC24EDA0081E8E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -89,6 +93,8 @@
 				F1C539691DC24EDA0081E8E5 /* Info.plist */,
 				F1CCD5621DC2694900097159 /* Event.swift */,
 				F166A6371DC3862000887354 /* CreateEventViewController.swift */,
+				F166A63A1DC3A64500887354 /* EventTableViewCell.swift */,
+				F166A63C1DC3A6D700887354 /* EventsTableViewController.swift */,
 			);
 			path = Faap;
 			sourceTree = "<group>";
@@ -222,8 +228,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F166A63B1DC3A64500887354 /* EventTableViewCell.swift in Sources */,
 				F1CCD5631DC2694900097159 /* Event.swift in Sources */,
 				F1C5395E1DC24EDA0081E8E5 /* AppDelegate.swift in Sources */,
+				F166A63D1DC3A6D700887354 /* EventsTableViewController.swift in Sources */,
 				F166A6381DC3862000887354 /* CreateEventViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
