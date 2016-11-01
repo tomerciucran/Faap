@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C6881B3CC9DEF19AC94F7C3A713330D35B724A09",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : 9223372036854775807,
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : 9223372036854775807,
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : 9223372036854775807,
+    "C6881B3CC9DEF19AC94F7C3A713330D35B724A09" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FBE57F0E-58EB-4ADC-AB25-A0FE1C89CC9B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : "Faap\/ReactiveSwift\/Carthage\/Checkouts\/xcconfigs\/",
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : "Faap\/ReactiveSwift\/",
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : "Faap\/ReactiveSwift\/Carthage\/Checkouts\/Result\/",
+    "C6881B3CC9DEF19AC94F7C3A713330D35B724A09" : "Faap\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Faap",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Faap.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ReactiveCocoa\/ReactiveSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/antitypical\/Result.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956D2B21DD155C49504BB67697A67F7C5351A353"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tomerciucran\/Faap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6881B3CC9DEF19AC94F7C3A713330D35B724A09"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jspahrsummers\/xcconfigs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E084C86B03F81D63323C9E7510697EA528A758C7"
+    }
+  ]
+}
